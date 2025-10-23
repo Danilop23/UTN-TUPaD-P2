@@ -1,0 +1,2 @@
+Este es un archivo de prueba para el ejercicio de try-with-resources.
+Línea 2: lectura correcta y cierre automático del recurso.
